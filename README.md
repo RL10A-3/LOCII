@@ -1,2 +1,2 @@
 # locii
-![12233](http://www.falklumo.com/lumolabs/articles/sharpness/images/iso12233-MANY.jpg)
+![locii](https://github.com/RL10A-3/locii/blob/master/locii.png)
